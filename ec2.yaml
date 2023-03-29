@@ -1,8 +1,0 @@
----
-Resources: null
-  EC2Instance: null
-    Type: AWS::EC2::Instance
-    Properties: null
-      ImageId: ami-0efa651876de2a5ce
-      InstanceType: t2.micro
-      KeyName: ranveer-cloud
